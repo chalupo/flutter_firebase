@@ -1,0 +1,2 @@
+C:/Users/oscar/OneDrive/Documentos/Escuela/6to Semestre/Diseno de Aplicaciones Moviles/dev/ldsw_firebase/ldsw_firebase/android/app/.cxx/Debug/z4x1gz50/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/oscar/OneDrive/Documentos/Escuela/6to Semestre/Diseno de Aplicaciones Moviles/dev/ldsw_firebase/ldsw_firebase/android/app/.cxx/Debug/z4x1gz50/armeabi-v7a/CMakeFiles/rebuild_cache.dir
