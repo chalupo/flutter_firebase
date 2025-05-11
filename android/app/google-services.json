@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865532905532",
+    "project_id": "flutter-udg",
+    "storage_bucket": "flutter-udg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865532905532:android:a1a640d0509888402b5b39",
+        "android_client_info": {
+          "package_name": "com.example.ldsw_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAINq5-FIi3ZYs1gEVPS6l6vjp93dMqRdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
